@@ -1,0 +1,23 @@
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/acc.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/addr_mux.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/alu.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/bi_buf.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/flag.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/ir.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/mdr.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/pc_logic.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/state.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/control_logic.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/CLOCKGEN.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/addr_decoder.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/data_latch.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/Bin2BCD.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/split.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/Decoder.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/CISC_MEMORY.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/ext_bi_buf.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/IO_MUX.vhd" VHDL kdh 1 0 0 -02
+"C:/Users/craz1/OneDrive/Desktop/Dohun/201807558_micro_kdh_221201/201807558 kdh/201807558_kdh/kdh/src/key.vhd" VHDL kdh 1 0 0 -02
+"./../compile/micro.vhd" VHDL kdh 1 0 0 -02
+"./../compile/7_Seg_Top.vhd" VHDL kdh 1 0 0 -02
+. . 0 0 0

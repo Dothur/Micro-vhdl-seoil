@@ -1,0 +1,58 @@
+Active-HDL 13.0.376.8320 2022-12-08 00:09:41
+
+Elaboration top modules:
+Architecture                  \7_Seg_Top\(\7_Seg_Top\)
+
+
+------------------------------------------------------------------------------------------------
+Entity        | Architecture | Library | Info | Compiler Version          | Compilation Options
+------------------------------------------------------------------------------------------------
+\7_Seg_Top\   | \7_Seg_Top\  | kdh     |      |                           | 
+micro         | micro        | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+IO_MUX        | IO_MUX       | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+key           | key          | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+ext_bi_buf    | ext_bi_buf   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+CISC_MEMORY   | CISC_MEMORY  | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+addr_decoder  | addr_decoder | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+CLOCKGEN      | CLOCKGEN     | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+data_latch    | data_latch   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+Bin2BCD       | beh          | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+split         | split        | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+Decoder       | Beh          | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+ACC           | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+FLAG          | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+IR            | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+ADDR_MUX      | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+ALU           | ALU          | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+MDR           | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+BI_BUF        | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+PC_LOGIC      | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+CONTROL_LOGIC | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+STATE         | BEHAVIORAL   | kdh     |      | 13.0.376.8320 (Windows64) | -O3
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+VHDL Package                 | Library | Info | Compiler Version          | Compilation Options
+------------------------------------------------------------------------------------------------
+standard                     | std     |      |                           | <unavailable>
+TEXTIO                       | std     |      | 13.0.376.8320 (Windows64) |  -2019
+std_logic_1164               | ieee    |      | 13.0.376.8320 (Windows64) |  -2008
+std_logic_arith              | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_SIGNED             | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED           | ieee    |      | 13.0.376.8320 (Windows64) | <unavailable>
+std_logic_misc               | ieee    |      | 13.0.376.8320 (Windows64) |  -2008
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Library                      | Comment
+------------------------------------------------------------------------------------------------
+ieee                         | Standard IEEE packages library
+kdh                          | None
+std                          | Standard VHDL library
+------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+\7_Seg_Top\ \7_Seg_Top\ \7_Seg_Top\
+
+
+The performance of simulation is reduced. Version Student Edition
