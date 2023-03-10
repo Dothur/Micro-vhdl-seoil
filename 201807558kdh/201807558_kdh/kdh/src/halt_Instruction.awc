@@ -1,0 +1,56 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="98838981a9c9f85b9862958aa6000700">halt_Instruction.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/control_logic/OP</signal>
+        <signal>/control_logic/PSTATE</signal>
+        <signal>/control_logic/ZERO</signal>
+        <signal>/control_logic/DOUT_EN</signal>
+        <signal>/control_logic/INC</signal>
+        <signal>/control_logic/LD_ACC</signal>
+        <signal>/control_logic/LD_IR</signal>
+        <signal>/control_logic/LD_MDR</signal>
+        <signal>/control_logic/LD_PC</signal>
+        <signal>/control_logic/NSTATE</signal>
+        <signal>/control_logic/RD</signal>
+        <signal>/control_logic/SEL</signal>
+        <signal>/control_logic/WR</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="413275" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="400000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

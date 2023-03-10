@@ -1,0 +1,57 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="d85ed3d489eb973d8863ee603e000000">InputTest.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/\7_Seg_Top\/U2/MEM_ADDR</signal>
+        <signal>/\7_Seg_Top\/U2/MEM_CLK</signal>
+        <signal>/\7_Seg_Top\/U2/READ</signal>
+        <signal>/\7_Seg_Top\/U2/WRITE</signal>
+        <signal>/\7_Seg_Top\/U2/MEM_DATA_IN</signal>
+        <signal>/\7_Seg_Top\/U2/MEM_DATA_OUT</signal>
+        <signal>/\7_Seg_Top\/U2/cells</signal>
+        <signal>/\7_Seg_Top\/U3/READ_EN</signal>
+        <signal>/\7_Seg_Top\/U3/WRITE_EN</signal>
+        <signal>/\7_Seg_Top\/U11/KEY_OUT</signal>
+        <signal>/\7_Seg_Top\/U8/d</signal>
+        <signal>/\7_Seg_Top\/U8/q</signal>
+        <signal>/\7_Seg_Top\/U9/d</signal>
+        <signal>/\7_Seg_Top\/U9/q</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="102673149" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="6439854" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
